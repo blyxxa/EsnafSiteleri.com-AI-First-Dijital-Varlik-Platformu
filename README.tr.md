@@ -415,7 +415,6 @@ Evet. Site tam PWA'dır ve Google Play Store'da TWA uygulaması olarak mevcuttur
 | Kanal | Değer |
 |---|---|
 | ✉️ E-posta | contact@blyxxa.com |
-| 📞 Telefon | +1 505 464 2448 |
 | 🌐 Web | [https://esnafsiteleri.com/iletisim](https://esnafsiteleri.com/iletisim) |
 | 📍 Adres | 1209 Mountain Road Pl NE, Suite N, Albuquerque, NM 87110, USA |
 | 🌍 Global | [https://nexuspages.com](https://nexuspages.com) |
