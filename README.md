@@ -453,7 +453,6 @@ Yes. The site is a full PWA and is also available on Google Play as a TWA app. A
 | Channel | Value |
 |---|---|
 | ✉️ Email | contact@blyxxa.com |
-| 📞 Phone | +1 505 464 2448 |
 | 🌐 Web | [https://nexuspages.com/contact-us](https://nexuspages.com/contact-us) |
 | 📍 Address | 1209 Mountain Road Pl NE, Suite N, Albuquerque, NM 87110, USA |
 | 🇹🇷 Turkey | [https://esnafsiteleri.com](https://esnafsiteleri.com) |
